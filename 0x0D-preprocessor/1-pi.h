@@ -1,5 +1,5 @@
-#ifndef MACRO_H
-#define MACRO_H
+#ifndef MAIN_H
+#define MAIN_H
 /**
  * File: 1-pi
  *
